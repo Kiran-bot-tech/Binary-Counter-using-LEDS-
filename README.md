@@ -1,0 +1,2 @@
+# Binary-Counter-using-LEDS-
+In this project we use an Arduino UNO to build a 4 bit Binary counter. This project as the name suggests is a counter which merely counts from zero to fifteen while representing them in 8-4-2-1 code or BINARY code. Each LED Glows up to show the place value &amp; by adding all the individual digits of the glowing LEDS one can find out the equivalent number in decimal. Still not clear? Take a look at this table to bring more clarity.
